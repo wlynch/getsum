@@ -1,0 +1,4 @@
+modules:
+- checksum: 02acfe3bc856805c25d65bb620e414b98aa504c6194ff8e953ce169edfcc03c6
+  path: /tmp/ko_0.11.2_Darwin_arm64.tar.gz
+  url: https://github.com/google/ko/releases/download/v0.11.2/ko_0.11.2_Darwin_arm64.tar.gz
